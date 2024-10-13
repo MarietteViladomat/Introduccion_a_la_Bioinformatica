@@ -1,6 +1,6 @@
 Curso introductorio al análisis de datos obtenidos mediante técnicas de Next Generation Sequencing (NGS)
 
-Impartido a alumnos de posgrado en el 2019 en el Instituto de Ecología de la UNAM, CDMX
+Impartido a alumnos de posgrado en el 2019 por alumnos de doctorado del Instituto de Ecología de la UNAM, CDMX
 
 # Objetivos del Curso
 
